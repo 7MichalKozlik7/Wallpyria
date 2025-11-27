@@ -157,49 +157,6 @@ Wallpyria is fully localized in **9 languages**:
 
 ---
 
-## Website
-
-This repository contains the source code for the official Wallpyria website at [wallpyria.app](https://wallpyria.app).
-
-### Tech Stack
-
-- **Framework**: Next.js 14 (App Router)
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS
-- **Animations**: Framer Motion
-- **i18n**: next-intl
-
-### Development
-
-```bash
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Start production server
-npm start
-```
-
-### Project Structure
-
-```
-wallpyria-website/
-├── src/
-│   ├── app/[locale]/     # Internationalized pages
-│   ├── components/       # React components
-│   └── i18n/             # i18n configuration
-├── messages/             # Translation files (9 languages)
-├── public/               # Static assets & screenshots
-└── out/                  # Static export (production build)
-```
-
----
-
 ## Support
 
 - **Email**: support@wallpyria.app
