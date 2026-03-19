@@ -87,7 +87,7 @@ Automatic detection and individual configuration for each display. Works with an
 |------|-------|-------------|
 | **Monthly** | $4.99/month | Full access, cancel anytime |
 | **Annual** | $49.99/year | Save 15%, best value |
-| **Lifetime** | $99.99 | One-time purchase, forever |
+| **Lifetime** | $4.99 | One-time purchase, forever |
 
 **14-day free trial** with full functionality. No credit card required.
 
